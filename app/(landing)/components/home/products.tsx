@@ -9,19 +9,19 @@ const productList = [
     name: "SportsOn Product 1",
     category: "Running",
     price: 450000,
-    imgUrl: "product-1.png",
+    imgUrl: "product-3.png",
   },
   {
     name: "SportsOn Product 2",
     category: "Running",
     price: 250000,
-    imgUrl: "product-1.png",
+    imgUrl: "product-2.png",
   },
   {
     name: "SportsOn Product 3",
     category: "Running",
     price: 230000,
-    imgUrl: "product-3.png",
+    imgUrl: "product-1.png",
   },
   {
     name: "SportsOn Product 4",
@@ -40,6 +40,18 @@ const productList = [
     category: "Running",
     price: 650000,
     imgUrl: "product-6.png",
+  },
+  {
+    name: "SportsOn Product 4",
+    category: "Running",
+    price: 440000,
+    imgUrl: "product-2.png",
+  },
+  {
+    name: "SportsOn Product 4",
+    category: "Running",
+    price: 440000,
+    imgUrl: "product-4.png",
   },
 ];
 
